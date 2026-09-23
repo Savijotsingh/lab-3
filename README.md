@@ -1,2 +1,2 @@
 # lab-3
-A practical comparison of ChatGPT and Google Gemini for aviation business applications, focusing on prompt quality, airport and airline use cases, business value, and responsible evaluation of AI-generated outputs.
+Explores the difference between retrieved information and AI-generated information using aviation examples. The lab focuses on source verification and explains why current flight, baggage, safety, and regulatory information must be checked against authoritative sources.
